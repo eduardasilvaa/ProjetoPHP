@@ -15,7 +15,7 @@
     <title>Consultar</title>
 </head>
 <body>
-    <h3>Lista de pessoas cadastradas</h3>
+    <h3>Lista de pessoas</h3>
     <?php if($resultado->num_rows > 0) : ?>
     <table border="1" cellpading="5" cellspacing="0">
         <tr>
